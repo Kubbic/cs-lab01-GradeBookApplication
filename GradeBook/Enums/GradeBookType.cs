@@ -6,8 +6,8 @@ namespace GradeBook.Enums
 {
     public enum GradeBookType
     {
-        Standard,
-        Ranked,
+        Standard, 
+        Ranked, 
         ESNU, 
         OneToFour, 
         SixPoint
